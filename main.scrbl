@@ -1,4 +1,4 @@
 #lang scribble/manual
 
-@title{My Package}
-@defmodule[my-package]
+@title{Racket Package Template}
+@defmodule[racket-package-template]
