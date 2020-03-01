@@ -25,11 +25,11 @@ making. In particular, the template assumes that:
 
 - You're *not* making a multi-collection package.
 
-- You're using the same name for your package and the collection your package
-provides.
+- You're using the same name for your package, the collection your package
+provides, and the repository containing your package.
 
-- You want to build and test your package on GitHub Actions using the latest
-Racket version.
+- You want to build and test your package using GitHub Actions with whatever the
+latest Racket version is.
 
 - You're going to put your package on the Racket package catalog and you're fine
 with this README's documentation badge linking to the catalog's hosted docs for
