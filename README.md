@@ -4,14 +4,14 @@ My personal template repository for Racket packages.
 
 ## How To Use
 
-1. Search and replace "racket-package-template" with the programmatic name of
+1. Search and replace `racket-package-template` with the programmatic name of
 your package, i.e. the name you'd use when publishing it on the Racket package
 catalog.
 
-2. Search and replace "Racket Package Template" with the title of your package
+2. Search and replace `Racket Package Template` with the title of your package
 that will be used in docs.
 
-3. Search and replace "jackfirth" with your GitHub username.
+3. Search and replace `jackfirth` with your GitHub username.
 
 4. Delete the How To Use section and the Caveats section of this README file and
 rewrite the summary at the top.
