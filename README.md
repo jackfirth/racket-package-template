@@ -13,7 +13,9 @@ that will be used in docs.
 
 3. Search and replace `jackfirth` with your GitHub username.
 
-4. Delete the How To Use section and the Assumptions section of this README file
+4. rename main.scrbl to $PACKAGE-NAME.scrbl
+
+5. Delete the How To Use section and the Assumptions section of this README file
 and rewrite the summary at the top.
 
 ## Assumptions
